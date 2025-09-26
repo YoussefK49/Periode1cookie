@@ -1,0 +1,7 @@
+#cookie:active {
+    transform: scale(0.95);
+    transition: transform 0.1s ease;
+}
+body {
+    background-color: #d2b48c; /* darker beige (tan) */
+}
